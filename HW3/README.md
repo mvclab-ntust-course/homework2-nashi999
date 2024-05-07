@@ -1,5 +1,5 @@
 # CVAT Practice
 
-Labeled some picture
+Labeled some pictures
 
 expoet file: instances_default.json
